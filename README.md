@@ -6,4 +6,4 @@ Simple HTML/CSS Web Pg Demo
 
 
 
-*Italic* This project comes from Thinkful/Chegg of who I am learning from
+* This project comes from Thinkful/Chegg of who I am learning from *
