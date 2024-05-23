@@ -5,5 +5,4 @@ This is practice for Github. Im new to this and excited to be able to learn and 
 Simple HTML/CSS Web Pg Demo
 
 
-
-* This project comes from Thinkful/Chegg of who I am learning from *
+## This project comes from Thinkful/Chegg of who I am learning from 
